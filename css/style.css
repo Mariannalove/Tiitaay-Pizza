@@ -1,5 +1,5 @@
 .land{
-    background-image:url(../images/pizza-with-green-leaves-3763966.jpg);
+    background-image:url(../images/pizza6.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -61,7 +61,7 @@ nav a:hover{
     color: bisque;
 } */
 .about{
-    background-image: url(../images/abstract-ancient-antique-art-235985.jpg);
+    background-image: url(../images/pizza4.jpg);
     
     background-repeat: no-repeat;
     position: relative;
@@ -84,7 +84,7 @@ nav a:hover{
      
 }
 .men{
-    background-image: url(../images/close-up-of-wooden-plank-326311.jpg);
+    background-image: url(../images/pizza5.jpg);
     background-repeat: no-repeat;
     position: relative;
     background-size: cover;
@@ -123,7 +123,7 @@ nav a:hover{
     
 }
 .contact{
-    background-image: url(../images/contactus.jpg);
+    background-image: url(../images/pizza2.jpg);
     background-repeat: no-repeat;
     position: relative;
     background-size: cover;    
